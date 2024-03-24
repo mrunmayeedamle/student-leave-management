@@ -12,7 +12,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url("/student-leave-management/images/bckgrnd_1.jpg") no-repeat;
+  background: url("/student-leave-management/bckgrnd_1.jpg") no-repeat;
   background-size: cover;
   background-position: center;
 }
